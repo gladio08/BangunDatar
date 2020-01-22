@@ -1,0 +1,7 @@
+H:\Visual Studio Project\BangunData\BangunData\bin\Debug\BangunData.exe.config
+H:\Visual Studio Project\BangunData\BangunData\bin\Debug\BangunData.exe
+H:\Visual Studio Project\BangunData\BangunData\bin\Debug\BangunData.pdb
+H:\Visual Studio Project\BangunData\BangunData\obj\Debug\BangunData.exe
+H:\Visual Studio Project\BangunData\BangunData\obj\Debug\BangunData.pdb
+H:\Visual Studio Project\BangunData\BangunData\obj\Debug\BangunData.csprojAssemblyReference.cache
+H:\Visual Studio Project\BangunData\BangunData\obj\Debug\BangunData.csproj.CoreCompileInputs.cache
